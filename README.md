@@ -12,3 +12,12 @@ $$r=$$ Tasa de interés del periodo <br>
 $$T=$$ Plazos <br>
 
 ### Ejemplo práctico
+```{r}
+# Creamos objetos con los valores de entrada
+A=1000
+r=0.02
+T=7
+# Calculamos el valor futuro:
+# Imprimimos el resultado
+
+```
