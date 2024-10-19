@@ -10,3 +10,5 @@ Donde: <br>
 $$A=$$ Anualidad <br>
 $$r=$$ Tasa de interés del periodo <br>
 $$T=$$ Plazos <br>
+
+### Ejemplo práctico
