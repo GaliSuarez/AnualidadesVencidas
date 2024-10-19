@@ -1,6 +1,7 @@
 # AnualidadesVencidas
 En este repositorio revisaremos las diferentes formulas de Anualidades vencidas 
 
-# Valor futuro
 ## Valor futuro
 Conociendo la anualidad, tasa de interés del periodo y el número (plazo) de anualidades.
+
+La formula es la siguente:
