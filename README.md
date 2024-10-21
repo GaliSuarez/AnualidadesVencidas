@@ -91,7 +91,7 @@ Conociendo la anualidad, tasa de interés del periodo y el número (plazo) de an
 La formula es la siguente:<br><br>
 
 
-$$VA_t=A\cdot\frac{1-(1+r)^(-T)\-1}{r}\$$<br>  <br>
+$$VA_t=A\cdot\frac{1-(1+r)^-^T\-1}{r}\$$<br>  <br>
 
 
 Donde: <br>
