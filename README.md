@@ -9,6 +9,8 @@ La formula es la siguente:<br><br>
 
 
 $$VF_t=A\cdot\frac{(1+r)^T\-1}{r}\$$ ....(1) <br>  <br>
+
+
 Donde: <br>
 $$A=$$ Anualidad <br>
 $$r=$$ Tasa de interés del periodo <br>
@@ -33,6 +35,8 @@ Para calcular el monto de la  Anualidad conociendo valor futuro, tasa del period
 
 
 $$A=\frac{VF_t}{(1+r)^T\-1}$$ <br><br>
+
+
 Aqui tenemos un ejemplo practico para anualidades
 ```
 # Creamos objetos con valores de entrada
