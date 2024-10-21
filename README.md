@@ -3,10 +3,11 @@ En este repositorio revisaremos las diferentes formulas de Anualidades vencidas.
 
 Tambien proporcionaremos ejemplos prácticos de cada formula.
 
-En el siguente link hemos programado las funciones correspondientes a cada formula.
+En el siguente link hemos programado las funciones correspondientes a las formulas.
 
-
-
+```
+source("https://raw.githubusercontent.com/GaliSuarez/AnualidadesVencidas/refs/heads/main/FuncionesAnualidadVencida%20(8).R")
+```
 ## Valor futuro
 Conociendo la anualidad, tasa de interés del periodo y el número (plazo) de anualidades.
 
