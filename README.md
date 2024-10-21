@@ -116,7 +116,7 @@ Para calcular el monto de la  Anualidad conociendo valor actual, tasa del period
 
 
 
-$$A=\frac{VA_t}{1-(1+r)^-T\-1}$$ <br><br>
+$$A=\frac{VA_t}{\frac{1-(1+r)^-T}{r}$$ <br><br>
 
 
 Aqui tenemos un ejemplo practico para Anualidad. (Para mis ejemplos de valor actual, y con la finalidad de distinguir de los calculos con valor final, a los nombres de las variables se les agregara un VA)
