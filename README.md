@@ -25,8 +25,8 @@ VFt=ValorFuturoT(A=A,r=r,Tp=Tp)
 VFt
 ```
 ### Anualidades 
-Para calcular el monto de la  Anualidad conociendo valor futuro, tasa del periodo y número de pagos, usamos la siguente formula, que resulta ser un despeje de la formula (1) <br>
-$$A=\frac{VF_t}{(1+r)^T\-1}$$ <br>
+Para calcular el monto de la  Anualidad conociendo valor futuro, tasa del periodo y número de pagos, usamos la siguente formula, que resulta ser un despeje de la formula (1) <br><br>
+$$A=\frac{VF_t}{(1+r)^T\-1}$$ <br><br>
 Aqui tenemos un ejemplo practico para anualidades
 ```
 # Creamos objetos con valores de entrada
@@ -39,6 +39,11 @@ A=Anualidad(VFt=VFt,r=r,Tp=Tp)
 # imprimimos el resultado
 A
 ```
+### Plazos 
+Para conocer el Número de pagos o plazo, conociendo valor futuro, número de pagos y tasa del periodo, utilizamos la siguente formula. <br>
+$$T=\frac{log\frac{(VF_t\cdot\r)}{A}\+1}{log(1+r)}$$
+
+
 Aqui tenemos un ejemplo practico para plazos
 ```
 # Creamos objetos con valores de entrada
