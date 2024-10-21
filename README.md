@@ -1,5 +1,11 @@
 # AnualidadesVencidas
-En este repositorio revisaremos las diferentes formulas de Anualidades vencidas 
+En este repositorio revisaremos las diferentes formulas de Anualidades vencidas. Utilizaremos las formulas de Valor Final y de Valor actual, cada una con suss respectivos despejes. 
+
+Tambien proporcionaremos ejemplos prácticos de cada formula.
+
+En el siguente link hemos programado las funciones correspondientes a cada formula.
+
+
 
 ## Valor futuro
 Conociendo la anualidad, tasa de interés del periodo y el número (plazo) de anualidades.
