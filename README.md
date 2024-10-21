@@ -8,7 +8,7 @@ Conociendo la anualidad, tasa de interés del periodo y el número (plazo) de an
 La formula es la siguente:<br><br>
 
 
-$$VF_t=A\cdot\frac{(1+r)^T\-1}{r}\$$ ....(1) <br>  <br>
+$$VF_t=A\cdot\frac{(1+r)^T\-1}{r}\$$<br>  <br>
 
 
 Donde: <br>
@@ -30,7 +30,7 @@ VFt=ValorFuturoT(A=A,r=r,Tp=Tp)
 VFt
 ```
 ## Anualidades 
-Para calcular el monto de la  Anualidad conociendo valor futuro, tasa del periodo y número de pagos, usamos la siguente formula, que resulta ser un despeje de la formula (1) <br><br>
+Para calcular el monto de la  Anualidad conociendo valor futuro, tasa del periodo y número de pagos, usamos la siguente formula, que resulta ser un despeje de la formula anterior <br><br>
 
 
 
