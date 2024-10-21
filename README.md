@@ -60,7 +60,7 @@ Tp
 Para conocer la tasa del periodo, conociendo valor futuro, número de pagos y monto de la anualidad, utilizamos la siguente formula.
 
 
-$$frac{VF_t}{A}=\frac{(1+r)^T-1}{r}$$
+$$\frac{VF_t}{A}=\frac{(1+r)^T-1}{r}$$
 Aqui tenemos un ejemplo practico para tasa del periodo
 ```
 # Creamos objetos con valores de entrada
