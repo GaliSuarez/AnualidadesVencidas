@@ -34,7 +34,7 @@ Para calcular el monto de la  Anualidad conociendo valor futuro, tasa del period
 
 
 
-$$A=\frac{VF_t}{(1+r)^T\-1}$$ <br><br>
+$$A=\frac{VF_t}{\frac{(1+r)^T\-1}{r}}$$ <br><br>
 
 
 Aqui tenemos un ejemplo practico para anualidades
