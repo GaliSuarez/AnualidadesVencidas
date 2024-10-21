@@ -40,8 +40,8 @@ A=Anualidad(VFt=VFt,r=r,Tp=Tp)
 A
 ```
 ### Plazos 
-Para conocer el Número de pagos o plazo, conociendo valor futuro, número de pagos y tasa del periodo, utilizamos la siguente formula. <br>
-$$T=\frac{log\frac{(VF_t\cdot\r)}{A}\+1}{log(1+r)}$$
+Para conocer el Número de pagos o plazo, conociendo valor futuro, número de pagos y tasa del periodo, utilizamos la siguente formula. <br><br>
+$$T=\frac{log\frac{(VF_t\cdot r)}{A}\+1}{log(1+r)}$$<br><br>
 
 
 Aqui tenemos un ejemplo practico para plazos
