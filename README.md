@@ -153,7 +153,7 @@ TpVA
 ### Tasa del periodo
 Para conocer la tasa del periodo, conociendo valor futuro, número de pagos y monto de la anualidad, utilizamos la siguente formula.<br><br>
 
-$$\frac{VF_t}{A}=\frac{1-(1+r)-^T}{r}$$<br><br>
+$$\frac{VF_t}{A}=\frac{1-(1+r)\^-\^T}{r}$$<br><br>
 
 Aqui tenemos un ejemplo practico para tasa del periodo. (Para mis ejemplos de valor actual, y con la finalidad de distinguir de los calculos con valor final, a los nombres de las variables se les agregara un VA)
 ```
