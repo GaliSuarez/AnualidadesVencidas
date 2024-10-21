@@ -139,7 +139,7 @@ Ava
 ```
 
 ### Plazos 
-Para conocer el Número de pagos o plazo, conociendo valor futuro, número de pagos y tasa del periodo, utilizamos la siguente formula. <br><br>
+Para conocer el Número de pagos o plazo, conociendo valor actual, número de pagos y tasa del periodo, utilizamos la siguente formula. <br><br>
 
 
 $$T=\frac{-log(1-\frac{(VA_t\cdot r)\)}{A}\}{log(1+r)}$$<br><br>
@@ -158,7 +158,7 @@ TpVA
 ```
 
 ### Tasa del periodo
-Para conocer la tasa del periodo, conociendo valor futuro, número de pagos y monto de la anualidad, utilizamos la siguente formula.<br><br>
+Para conocer la tasa del periodo, conociendo valor actual, número de pagos y monto de la anualidad, utilizamos la siguente formula.<br><br>
 
 $$\frac{VF_t}{A}=\frac{1-(1+r)^-T}{r}$$<br><br>
 
