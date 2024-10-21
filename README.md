@@ -12,12 +12,13 @@ $$r=$$ Tasa de interés del periodo <br>
 $$T=$$ Plazos <br>
 
 De esta formula obtendremos los siguentes despejes
+$$A=\frac{VF_t}{(1+r)^T\-1}$$ <br>
 
-### Anualidades 
-Para calcular el monto de la  Anualidad conociendo valor futuro, tasa del periodo y número de pagos, usamos la siguente formula
-$$A=\frac{VF_t}{(1+r)^T\-1}$$
 
-Aqui tenemos un ejemplo practico para Valor futuro de anualidades
+
+### Valor futuro 
+
+Aqui tenemos un ejemplo práctico para el Valor futuro
 ```
 # Creamos objetos con valores de entrada
 A=1500
@@ -29,6 +30,9 @@ VFt=ValorFuturoT(A=A,r=r,Tp=Tp)
 # imprimimos el resultado
 VFt
 ```
+### Anualidades 
+Para calcular el monto de la  Anualidad conociendo valor futuro, tasa del periodo y número de pagos, usamos la siguente formula <br>
+$$A=\frac{VF_t}{(1+r)^T\-1}$$ <br>
 Aqui tenemos un ejemplo practico para anualidades
 ```
 # Creamos objetos con valores de entrada
