@@ -4,6 +4,7 @@ En este repositorio revisaremos las diferentes formulas de Anualidades vencidas
 ## Valor futuro
 Conociendo la anualidad, tasa de interés del periodo y el número (plazo) de anualidades.
 
+
 La formula es la siguente:<br><br>
 
 
@@ -28,6 +29,7 @@ VFt
 ```
 ## Anualidades 
 Para calcular el monto de la  Anualidad conociendo valor futuro, tasa del periodo y número de pagos, usamos la siguente formula, que resulta ser un despeje de la formula (1) <br><br>
+
 
 
 $$A=\frac{VF_t}{(1+r)^T\-1}$$ <br><br>
