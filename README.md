@@ -15,7 +15,7 @@ De esta formula obtendremos los siguentes despejes
 
 ### Anualidades 
 Para calcular el monto de la  Anualidad conociendo valor futuro, tasa del periodo y número de pagos, usamos la siguente formula
-$$A=frac{VF_t}{(1+r)^T\-1}$$
+$$A=\frac{VF_t}{(1+r)^T\-1}$$
 
 Aqui tenemos un ejemplo practico para Valor futuro de anualidades
 ```
